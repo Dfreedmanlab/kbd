@@ -1,0 +1,11 @@
+.deps
+.svn/
+INSTALL
+LICENSE
+Makefile
+README
+build.m
+kbd.mg
+test_kbd
+test_kbd.o
+vc8/
